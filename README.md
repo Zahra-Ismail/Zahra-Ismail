@@ -70,12 +70,6 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zahra-ismail/zahra-ismail/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ✨ *“Security is not a product, but a process.” — Bruce Schneier*  
