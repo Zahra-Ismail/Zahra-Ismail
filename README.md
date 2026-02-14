@@ -7,17 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=zahra-ismail&label=Profile%20views&color=0e75b6&style=flat" alt="zahra-ismail" />
 </p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahra-ismail&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahra-ismail&layout=compact&langs_count=8&theme=dracula" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif"  />
-
 ---
 
 ### 👩‍💻 About Me
@@ -62,13 +51,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zahra-ismail&theme=dracula&margin-w=10&margin-h=10" alt="trophies" />
-</p>
-
----
 
 
 
