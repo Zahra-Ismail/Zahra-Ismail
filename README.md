@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on **innovative cybersecurity and cloud-based projects** <br>🌱 I’m currently learning **cyber defense mechanisms, threat analysis, and AI in cybersecurity** <br>👯 I’m looking to collaborate on **open-source projects in cybersecurity, AI, and IoT** <br>💬 Ask me about **cybersecurity fundamentals, AWS & cloud architecture, IoT, and smart home systems** <br>⚡ Fun fact: *I love turning complex problems into creative tech solutions — and I never miss a good hackathon!*
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif"  />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zahra-ismail-428b42314/) 
